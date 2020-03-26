@@ -9,4 +9,5 @@ MCR-ALS program for spectroscopic analysis.
 - PyQt4
 
 ## Installation
-- mcr_main.py: main program file.
+- mcr_main.py is the main program file.
+- Igor pro binarry files (.ibw) are acceptable.
